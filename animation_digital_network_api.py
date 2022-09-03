@@ -1,4 +1,4 @@
-import requests as requests
+import requests
 import datetime
 
 
